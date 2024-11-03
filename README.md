@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <!--
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 **SamiCanboy/SamiCanboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sami-canboy-a98513318" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/sami-canboy-a98513318?trk=profile-badge">Sami Canboy</a></div>
+              
 -->
