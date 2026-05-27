@@ -4,9 +4,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Şu an üzerinde çalıştıklarım: **Android uygulamaları, gömülü sistem projeleri ve full-stack web geliştirme**
-- 🌱 Sürekli öğreniyorum: **mobile, IoT, web**
-- 💬 Bana sorabilirsiniz: **Python, JavaScript, Node.js, C#, Kotlin**
+- 🔭**Currently working on:** **Android apps, embedded systems projects & full-stack web development**
+- 🌱 Always exploring new tech in: **mobile, IoT, web**
+- 💬 Ask me about **Python, JavaScript, Node.js, C#, Kotlin**
 
 ---
 
@@ -24,23 +24,14 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SamiCanboy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Streak](https://streak-stats.demolab.com/?user=SamiCanboy&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiCanboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ---
 
-### 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SamiCanboy&theme=tokyonight&no-frame=true&column=7&margin-w=10)
-
----
 
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KULLANICI-ADIN/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ka3z.dev@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamiCanboy&label=Profile%20views&color=0e75b6&style=flat)
