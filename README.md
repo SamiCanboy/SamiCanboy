@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭**Currently working on:** **Android apps, embedded systems projects & full-stack web development**
+- 🔭**Currently working on:** **Android apps & full-stack web development**
 - 🌱 Always exploring new tech in: **mobile, IoT, web**
 - 💬 Ask me about **Python, JavaScript, Node.js, C#, Kotlin**
 
